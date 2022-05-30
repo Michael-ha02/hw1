@@ -1,0 +1,44 @@
+h3{
+    font-size: 15px;
+}
+.heading{
+    text-align: center;
+    font-family: "Monaco", monospace;
+    font-size: 20px;
+}
+
+.container  {
+    background-color: white;
+}
+.row{
+    height:auto;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+#picture{
+    height:200px;
+    width:400px;
+}
+
+.part2grid {
+    background-color:black;
+    padding: 10px;
+}
+.part2grid .part2itemgrid{
+    background-color:black;
+    border: 1px;
+    padding: 20px
+}
+#picture2{
+    height:200px;
+    width:200px;
+}
+
+#picture3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
